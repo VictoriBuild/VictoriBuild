@@ -89,6 +89,7 @@ I specialize in creating high-performance, scalable, and secure web applications
 ## 🌐 Let’s Connect & Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/-Victor_Emmanuel-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/VictoriBuild)
+[![X](https://img.shields.io/badge/-@VictorIBuild-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/VictorIBuild)
 [![Email](https://img.shields.io/badge/-vic@viralmaxmedia.org-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:vic@viralmaxmedia.org)
 
 > Let's build solutions that scale and experiences that stick. 💡🚀
