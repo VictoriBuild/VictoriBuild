@@ -70,6 +70,13 @@ Helping individuals, businesses & brands gain **20X results** with my #PPS philo
 
 ---
 
+## 👨‍💻 Coding Style
+I adhere to principled programming styles for clean, maintainable code.
+
+![semistandard](https://img.shields.io/badge/code%20style-semistsandard-ffb13b?style=flat-square&logo=semistandard&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
