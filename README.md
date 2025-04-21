@@ -13,7 +13,7 @@ Helping individuals, businesses & brands gain **20X results** with my #PPS philo
 ---
 
 ## 👨‍💻 About Me
-- 💼 Full-stack developer with profound experience in React, Node.js, Express & PHP
+- 💼 Full-stack developer with experience in React, Node.js, Express & PHP
 - 🌍 Building optimized web solutions and maintaining platforms globally
 - 🎨 Skilled in Figma, Adobe XD & Illustrator for creative, UI-focused development
 - 🔐 Focused on clean code, scalable architecture, and secure APIs
@@ -73,7 +73,7 @@ Helping individuals, businesses & brands gain **20X results** with my #PPS philo
 ## 👨‍💻 Coding Style
 I adhere to principled programming styles for clean, maintainable code.
 
-![semistandard](https://img.shields.io/badge/code%20style-semistsandard-ffb13b?style=flat-square&logo=semistandard&logoColor=white)
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
 
 ---
 
@@ -92,7 +92,7 @@ I adhere to principled programming styles for clean, maintainable code.
 
 ## 🤝 Let’s Connect & Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/-Victor%20Emmanuel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VictoriBuild)
+[![LinkedIn](https://img.shields.io/badge/-Victor%20Emmanuel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-emmanuel-dev)
 [![X](https://img.shields.io/badge/-@VictorIBuild-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/VictorIBuild)
 [![Email](https://img.shields.io/badge/-vic@viralmaxmedia.org-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:vic@viralmaxmedia.org)
 
