@@ -70,6 +70,13 @@ Helping individuals, businesses & brands gain **20X results** with my #PPS philo
 
 ---
 
+## 👨‍💻 Coding Style
+
+I adhere to principled programming styles for clean, maintainable code.
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
