@@ -73,7 +73,6 @@ Helping individuals, businesses & brands gain **20X results** with my #PPS philo
 ## 👨‍💻 Coding Style
 I adhere to principled programming styles for clean, maintainable code.
 
-
 ---
 
 ## 📊 GitHub Stats
