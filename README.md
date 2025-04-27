@@ -2,8 +2,9 @@
 
 ## 🚀 Full-Stack Developer | Passionate Problem Solver
 
-I build full-stack web solutions that are fast, functional, and future-ready.  
-Helping individuals, businesses & brands gain **20X results** with my #PPS philosophy:  
+I build full-stack web solutions that are fast, functional,
+and future-ready. Helping individuals, businesses, and brands
+achieve exponential results with my #PPS Strategies:
 **Precision**, ship with **Purpose**, and **Scale** with Vision.
 
 ---
