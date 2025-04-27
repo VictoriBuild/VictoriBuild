@@ -16,6 +16,14 @@ achieve exponential results with my #PPS Strategies:
 
 ---
 
+## 👨‍💻 What I Do
+- Full-Stack Web Development
+- SEO-Driven CMS & Ad Campaigns
+- Responsive UI/UX & Visual Design
+- Database Design & Management
+
+---
+
 ## 🧰 Technical Skills
 
 ### 🖥️ Frontend
