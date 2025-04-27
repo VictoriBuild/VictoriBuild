@@ -1,9 +1,5 @@
 # Hi there, I'm Victor Emmanuel! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VictoriBuild&label=Profile%20views&color=0e75b6&style=flat" alt="VictoriBuild" />
-</p>
-
 ## 🚀 Full-Stack Developer | Passionate Problem Solver
 
 I build full-stack web solutions that are fast, functional, and future-ready.  
