@@ -10,14 +10,13 @@ achieve exponential results with my #PPS Strategies:
 ---
 
 ## 👨‍💻 About Me
-- 💼 Full-stack developer with experience in React, Node.js, Express & PHP
-- 🌍 Building optimized web solutions and maintaining platforms globally
-- 🎨 Skilled in Figma, Adobe XD & Illustrator for creative, UI-focused development
-- 🔐 Focused on clean code, scalable architecture, and secure APIs
+- 💼 I'm a passionate and results-driven Full-Stack Web Developer with 7+ years of experience, skilled in both frontend and backend technologies. I specialize in turning complex ideas into efficient, user-friendly applications that not only look great but also deliver exceptional performance.
+
+- 🌍 My approach combines clean code, intuitive design, and a deep understanding of the latest industry trends. I thrive on continuous learning and embrace new challenges, always aiming to create innovative solutions that solve real-world problems, whether it’s enhancing an existing product or building something from scratch. I believe in creating web applications that deliver measurable results. Let’s build something incredible together.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
